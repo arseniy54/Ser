@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mMUrVM1sg1mwBN01TSlh7+8AucoFnekRDzfjYsaJkWPKwddQouphEo7Qy+YkTDeM87/9NdmR1noKKnXXcbclXA==",
+  "dgSpecHash": "XWpYV7KuPAzki/jkcjWanU0e0Og3/t9XXrJu2yfbLncDd/4b9zUbLLbKdV9g7vZzJRFFLAXenrO18oH4vP7nNg==",
   "success": true,
-  "projectFilePath": "C:\\Rubicon\\Rubicon\\Rubicon\\Ser.csproj",
+  "projectFilePath": "C:\\Users\\arspr\\Documents\\GitHub\\Ser\\Rubicon\\Rubicon\\Ser.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arspr\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\arspr\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

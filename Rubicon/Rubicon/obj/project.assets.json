@@ -8743,11 +8743,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Rubicon\\Rubicon\\Rubicon\\Ser.csproj",
+      "projectUniqueName": "C:\\Users\\arspr\\Documents\\GitHub\\Ser\\Rubicon\\Rubicon\\Ser.csproj",
       "projectName": "Ser",
-      "projectPath": "C:\\Rubicon\\Rubicon\\Rubicon\\Ser.csproj",
+      "projectPath": "C:\\Users\\arspr\\Documents\\GitHub\\Ser\\Rubicon\\Rubicon\\Ser.csproj",
       "packagesPath": "C:\\Users\\arspr\\.nuget\\packages\\",
-      "outputPath": "C:\\Rubicon\\Rubicon\\Rubicon\\obj\\",
+      "outputPath": "C:\\Users\\arspr\\Documents\\GitHub\\Ser\\Rubicon\\Rubicon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arspr\\AppData\\Roaming\\NuGet\\NuGet.Config",
